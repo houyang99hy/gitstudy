@@ -15,7 +15,7 @@ java学习
 
 #### 使用说明
 
-1.  xxxx
+1.  初学git的使用
 2.  xxxx
 3.  xxxx
 
